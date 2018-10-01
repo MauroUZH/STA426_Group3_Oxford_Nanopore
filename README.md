@@ -1,3 +1,4 @@
+
 # STA426_Group3_Oxford_Nanopore
 
 
@@ -18,6 +19,8 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 
 * Cheap
 * Small
+* real time display / fast sample processing
+* mobile
 
 ## Disadvantage
 
